@@ -1,0 +1,221 @@
+{
+  "workspaces": {
+    "测试": {
+      "main": {
+        "id": "c8e641a42433fbc3",
+        "type": "split",
+        "children": [
+          {
+            "id": "cfceb36ec95d2e15",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b5a661299d54f821",
+                "type": "leaf",
+                "state": {
+                  "type": "pluto-board-view",
+                  "state": {},
+                  "icon": "layout-grid",
+                  "title": "冥王中心"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1b7ca19100a2e032",
+        "type": "split",
+        "children": [
+          {
+            "id": "877fa0ad208da05b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6cafe83b3519c1a4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "509f0c5329735db8",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "10113233b43787b5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "ebe0615c2e523765",
+        "type": "split",
+        "children": [
+          {
+            "id": "ac919f9eb9d09466",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1f3b847fe35c1143",
+                "type": "leaf",
+                "state": {
+                  "type": "pluto-text-view",
+                  "state": {
+                    "title": "导航",
+                    "icon": "home-right",
+                    "file": "right.page",
+                    "app": "主页冥王",
+                    "mode": "preview"
+                  },
+                  "icon": "home-right",
+                  "title": "导航"
+                }
+              },
+              {
+                "id": "d043d26211f71202",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "反向链接"
+                }
+              },
+              {
+                "id": "c35edc592bc03fb1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "出链"
+                }
+              },
+              {
+                "id": "c7250895b27db515",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "f4b239be6a8a4814",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "添加笔记属性"
+                }
+              },
+              {
+                "id": "a8aa240ed81ffafc",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "大纲"
+                }
+              },
+              {
+                "id": "b0c1f29d6550fd95",
+                "type": "leaf",
+                "state": {
+                  "type": "pluto-text-view",
+                  "state": {
+                    "title": "导航",
+                    "icon": "home-right",
+                    "file": "right.page",
+                    "app": "主页冥王",
+                    "mode": "preview"
+                  },
+                  "icon": "home-right",
+                  "title": "导航"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 320.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "bases:新建数据库": false,
+          "pluto-hub:冥王中心": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "6cafe83b3519c1a4",
+      "mtime": "2026-05-16T21:08:22+08:00"
+    }
+  },
+  "active": "测试"
+}

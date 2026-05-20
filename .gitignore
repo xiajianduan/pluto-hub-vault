@@ -1,0 +1,17 @@
+# mac
+.DS_Store
+
+# editor
+.idea
+.vscode
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.icons
+.trash
+.bak
+.obsidian/.space
+.obsidian/tags
+
+# claudian
+.claudian/sessions
